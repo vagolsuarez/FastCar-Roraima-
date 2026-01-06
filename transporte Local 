@@ -1,0 +1,17 @@
+name: transporte_local
+description: App de transporte local tipo Uber (Pacaraima - Santa Elena)
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.3.0
+  firebase_auth: ^5.2.0
+  google_maps_flutter: ^2.5.0
+  geolocator: ^11.0.0
+  http: ^1.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
